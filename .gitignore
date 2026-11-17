@@ -63,3 +63,12 @@ venv/
 env/
 .DS_Store
    cache/
+/cache/
+*.npz
+*.npy
+/data/tactical/
+/data/broadcast/
+*.mp4
+*_atd.txt
+ARGUS_XI.csv
+model_task4_*submission.csv
